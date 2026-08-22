@@ -5,6 +5,7 @@ namespace TerraQuest.Data;
 public class CountrySeed
 {
     private List<Country> Countries { get; set; } = [];
+    private List<Language> Languages { get; set; } = [];
     private int _lastCountryId;
     private int _lastLanguageId;
     private int _lastCountryLanguageId;
@@ -16,19 +17,20 @@ public class CountrySeed
             505990.37, Region.Europe,
             "Испания занимает большую часть Пиренейского полуострова и имеет сухопутную границу" +
             " только с четырьмя странами: Португалией, Францией, Андоррой и Марокко (через территории Сеута и Мелилья).");
-        Language spanish = CreateLanguage("Испанский");
+        Countries.Add(spain);
+        Language spanish = GetOrCreateLanguage("Испанский");
         CountryLanguage spainSpanish = new CountryLanguage
         {
             Country =  spain,
             Language = spanish,
-            IsOfficial = true
+            IsOfficial = true,
+            CountryId = spain.Id,
+            LanguageId = spanish.Id,
+            Id = ++_lastCountryLanguageId
         };
-        
-        spainSpanish.CountryId = spain.Id;
-        spainSpanish.LanguageId = spanish.Id;
-        spainSpanish.Id = ++_lastCountryLanguageId;
         spain.CountryLanguages.Add(spainSpanish);
-        Countries.Add(spain);
+        
+        
         
         
         
@@ -48,11 +50,15 @@ public class CountrySeed
 
     public IReadOnlyList<Country> GetCountries() => Countries;
 
-    private Language CreateLanguage(string languageName)
+    private Language GetOrCreateLanguage(string languageName)
     {
-        Language language = new Language();
-        language.Name = languageName;
-        language.Id = ++_lastLanguageId;
+        Language? language = Languages.FirstOrDefault(lang => lang.Name == languageName);
+        if (language == null) 
+        {
+            language = new Language(languageName);
+            language.Id = ++_lastLanguageId;
+            Languages.Add(language);
+        }
         return language;
     }
 }

@@ -1,7 +1,7 @@
 ﻿namespace TerraQuest.Models;
 
-public class Language
+public class Language(string name)
 {
     public int Id { get; internal set; }
-    public string Name { get; internal set; }
+    public string Name { get; internal set; } = name;
 }
