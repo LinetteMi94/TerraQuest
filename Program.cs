@@ -1,7 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using TerraQuest.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<TerraQuestContext>(options => options.UseSqlite("Data Source=TerraQuest.db"));
+
 // Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

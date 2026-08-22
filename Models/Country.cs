@@ -9,10 +9,9 @@ public class Country(
     long population,
     double area,
     Region region,
-    string interestingFact,
-    IReadOnlyList<string> languages)
+    string interestingFact)
 {
-    public int Id { get; } = id;
+    public int Id { get; private set; } = id;
     public string Name { get; private set; } = name;
     public string Capital { get; set; } = capital;
     public Region Region { get; private set; } = region; //часть света
@@ -20,6 +19,6 @@ public class Country(
     public long Population { get; set; } = population;
     public double Area { get; set; } = area; //площадь
     public string Currency { get; set; } = currency; //валюта
-    public IReadOnlyList<string> Languages { get; private set; } = languages;
+    public List<CountryLanguage> CountryLanguages { get; private set; } = [];
     public string InterestingFact { get; set; } = interestingFact;
 }
