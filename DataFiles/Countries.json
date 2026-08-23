@@ -1,0 +1,83 @@
+﻿[
+  {
+    "name": "Испания",
+    "capital": "Мадрид",
+    "flagPath": "Images/Flags/es.svg",
+    "currency": "Евро",
+    "population": 48000000,
+    "area": 505990.37,
+    "region": 0,
+    "interestingFact": "Испания занимает большую часть Пиренейского полуострова и имеет сухопутную границу только с четырьмя странами: Португалией, Францией, Андоррой и Марокко (через территории Сеута и Мелилья).",
+    "languages": [
+      {
+        "name": "Испанский",
+        "sinceYear": 1978,
+        "isOfficial": true
+      },
+      {
+        "name": "Каталанский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Галисийский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Баскский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Канада",
+    "capital": "Оттава",
+    "flagPath": "Images/Flags/ca.svg",
+    "currency": "Канадский доллар",
+    "population": 41000000,
+    "area": 9984670,
+    "region": 1,
+    "interestingFact": "Канада имеет самую длинную береговую линию в мире и занимает второе место по площади среди стран мира",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1969,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1969,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Перу",
+    "capital": "Лима",
+    "flagPath": "Images/Flags/pe.svg",
+    "currency": "Перуанский соль",
+    "population": 34000000,
+    "area": 1285216,
+    "region": 2,
+    "interestingFact": "В Перу находится древний город Мачу-Пикчу, построенный цивилизацией инков высоко в Андах.",
+    "languages": [
+      {
+        "name": "Испанский",
+        "sinceYear": 1821,
+        "isOfficial": true
+      },
+      {
+        "name": "Кечуа",
+        "sinceYear": 1975,
+        "isOfficial": true
+      },
+      {
+        "name": "Аймара",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  }
+]

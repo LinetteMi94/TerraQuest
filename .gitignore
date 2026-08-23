@@ -19,7 +19,12 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
-# OS files
+# Файлы операционной системы
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Файлы базы данных SQLite
+*.db
+*.db-shm
+*.db-wal

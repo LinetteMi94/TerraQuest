@@ -10,6 +10,6 @@ public class CountryLanguage
     public int LanguageId { get; internal set; }
     public Language Language { get; internal set; }
     
-    public int? SinceYear { get; private set; }
+    public int? SinceYear { get; internal set; }
     public bool IsOfficial { get; internal set; }
 }
