@@ -5,7 +5,7 @@
     "flagPath": "Images/Flags/es.svg",
     "currency": "Евро",
     "population": 48000000,
-    "area": 505990.37,
+    "area": 505990,
     "region": 0,
     "interestingFact": "Испания занимает большую часть Пиренейского полуострова и имеет сухопутную границу только с четырьмя странами: Португалией, Францией, Андоррой и Марокко (через территории Сеута и Мелилья).",
     "languages": [
@@ -27,6 +27,11 @@
       {
         "name": "Баскский",
         "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Аранский",
+        "sinceYear": 2010,
         "isOfficial": false
       }
     ]
@@ -76,6 +81,255 @@
       {
         "name": "Аймара",
         "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Япония",
+    "capital": "Токио",
+    "region": 5,
+    "flagPath": "Images/Flags/jp.svg",
+    "population": 125000000,
+    "area": 377975,
+    "currency": "Иена",
+    "languages": [
+      {
+        "name": "Японский",
+        "sinceYear": 1947,
+        "isOfficial": true
+      }
+    ],
+    "interestingFact": "Япония состоит из более чем 6000 островов."
+  },
+  {
+    "name": "Австрия",
+    "capital": "Вена",
+    "flagPath": "Images/Flags/at.svg",
+    "currency": "Евро",
+    "population": 9100000,
+    "area": 83871,
+    "region": 0,
+    "interestingFact": "Австрия расположена в Альпах: около 60% территории страны занимают горы, а через её территорию протекает одна из крупнейших рек Европы — Дунай.",
+    "languages": [
+      {
+        "name": "Немецкий",
+        "sinceYear": 1920,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Албания",
+    "capital": "Тирана",
+    "flagPath": "Images/Flags/al.svg",
+    "currency": "Албанский лек",
+    "population": 2800000,
+    "area": 28748,
+    "region": 0,
+    "interestingFact": "Албания имеет выход к Адриатическому и Ионическому морям, а около 70% её территории занимают горы и холмы.",
+    "languages": [
+      {
+        "name": "Албанский",
+        "sinceYear": 1912,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Андорра",
+    "capital": "Андорра-ла-Велья",
+    "flagPath": "Images/Flags/ad.svg",
+    "currency": "Евро",
+    "population": 80000,
+    "area": 468,
+    "region": 0,
+    "interestingFact": "Андорра — одно из самых маленьких государств Европы, расположенное высоко в Пиренейских горах между Францией и Испанией.",
+    "languages": [
+      {
+        "name": "Каталанский",
+        "sinceYear": 1993,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Беларусь",
+    "capital": "Минск",
+    "flagPath": "Images/Flags/by.svg",
+    "currency": "Белорусский рубль",
+    "population": 9100000,
+    "area": 207600,
+    "region": 0,
+    "interestingFact": "Беларусь расположена в Восточной Европе и известна своими большими лесными массивами и болотами, включая уникальный природный комплекс Беловежской пущи.",
+    "languages": [
+      {
+        "name": "Белорусский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Русский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Бельгия",
+    "capital": "Брюссель",
+    "flagPath": "Images/Flags/be.svg",
+    "currency": "Евро",
+    "population": 11800000,
+    "area": 30528,
+    "region": 0,
+    "interestingFact": "Бельгия разделена на три языковых сообщества и три региона. В стране находятся штаб-квартиры многих международных организаций, включая институты Европейского союза.",
+    "languages": [
+      {
+        "name": "Нидерландский",
+        "sinceYear": 1830,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1830,
+        "isOfficial": true
+      },
+      {
+        "name": "Немецкий",
+        "sinceYear": 1920,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Болгария",
+    "capital": "София",
+    "flagPath": "Images/Flags/bg.svg",
+    "currency": "Болгарский лев",
+    "population": 6400000,
+    "area": 110994,
+    "region": 0,
+    "interestingFact": "Болгария расположена на Балканском полуострове, а её территорию пересекают горы Балканы, которые дали название всему региону.",
+    "languages": [
+      {
+        "name": "Болгарский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Босния и Герцеговина",
+    "capital": "Сараево",
+    "flagPath": "Images/Flags/ba.svg",
+    "currency": "Конвертируемая марка",
+    "population": 3200000,
+    "area": 51209,
+    "region": 0,
+    "interestingFact": "Босния и Герцеговина расположена на Балканском полуострове и имеет небольшой выход к Адриатическому морю. Страна известна сложным горным рельефом с Динарскими Альпами.",
+    "languages": [
+      {
+        "name": "Боснийский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Хорватский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Сербский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Ватикан",
+    "capital": "Ватикан",
+    "flagPath": "Images/Flags/va.svg",
+    "currency": "Евро",
+    "population": 800,
+    "area": 0.49,
+    "region": 0,
+    "interestingFact": "Ватикан — самое маленькое государство в мире по площади и населению. Он полностью расположен внутри города Рим и является центром Католической церкви.",
+    "languages": [
+      {
+        "name": "Латынь",
+        "sinceYear": 1929,
+        "isOfficial": true
+      },
+      {
+        "name": "Итальянский",
+        "sinceYear": 1929,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Великобритания",
+    "capital": "Лондон",
+    "flagPath": "Images/Flags/gb.svg",
+    "currency": "Фунт стерлингов",
+    "population": 69000000,
+    "area": 243610,
+    "region": 0,
+    "interestingFact": "Великобритания — островное государство у северо-западного побережья Европы, состоящее из четырёх исторических частей: Англии, Шотландии, Уэльса и Северной Ирландии.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": null,
+        "isOfficial": true
+      },
+      {
+        "name": "Валлийский",
+        "sinceYear": 1993,
+        "isOfficial": false
+      },
+      {
+        "name": "Шотландский гэльский",
+        "sinceYear": 2005,
+        "isOfficial": false
+      },
+      {
+        "name": "Ирландский",
+        "sinceYear": 2022,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Венгрия",
+    "capital": "Будапешт",
+    "flagPath": "Images/Flags/hu.svg",
+    "currency": "Венгерский форинт",
+    "population": 9600000,
+    "area": 93030,
+    "region": 0,
+    "interestingFact": "Венгрия расположена в Центральной Европе, большую часть её территории занимает равнина Среднедунайской низменности, а через столицу Будапешт протекает одна из крупнейших рек Европы — Дунай.",
+    "languages": [
+      {
+        "name": "Венгерский",
+        "sinceYear": 2012,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Германия",
+    "capital": "Берлин",
+    "flagPath": "Images/Flags/de.svg",
+    "currency": "Евро",
+    "population": 84000000,
+    "area": 357592,
+    "region": 0,
+    "interestingFact": "Германия находится в центре Европы и имеет разнообразный рельеф: от побережья Северного и Балтийского морей на севере до Альп на юге.",
+    "languages": [
+      {
+        "name": "Немецкий",
+        "sinceYear": 1949,
         "isOfficial": true
       }
     ]
