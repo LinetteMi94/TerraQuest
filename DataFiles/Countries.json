@@ -1,108 +1,5 @@
 ﻿[
-  {
-    "name": "Испания",
-    "capital": "Мадрид",
-    "flagPath": "Images/Flags/es.svg",
-    "currency": "Евро",
-    "population": 48000000,
-    "area": 505990,
-    "region": 0,
-    "interestingFact": "Испания занимает большую часть Пиренейского полуострова и имеет сухопутную границу только с четырьмя странами: Португалией, Францией, Андоррой и Марокко (через территории Сеута и Мелилья).",
-    "languages": [
-      {
-        "name": "Испанский",
-        "sinceYear": 1978,
-        "isOfficial": true
-      },
-      {
-        "name": "Каталанский",
-        "sinceYear": 1978,
-        "isOfficial": false
-      },
-      {
-        "name": "Галисийский",
-        "sinceYear": 1978,
-        "isOfficial": false
-      },
-      {
-        "name": "Баскский",
-        "sinceYear": 1978,
-        "isOfficial": false
-      },
-      {
-        "name": "Аранский",
-        "sinceYear": 2010,
-        "isOfficial": false
-      }
-    ]
-  },
-  {
-    "name": "Канада",
-    "capital": "Оттава",
-    "flagPath": "Images/Flags/ca.svg",
-    "currency": "Канадский доллар",
-    "population": 41000000,
-    "area": 9984670,
-    "region": 1,
-    "interestingFact": "Канада имеет самую длинную береговую линию в мире и занимает второе место по площади среди стран мира",
-    "languages": [
-      {
-        "name": "Английский",
-        "sinceYear": 1969,
-        "isOfficial": true
-      },
-      {
-        "name": "Французский",
-        "sinceYear": 1969,
-        "isOfficial": true
-      }
-    ]
-  },
-  {
-    "name": "Перу",
-    "capital": "Лима",
-    "flagPath": "Images/Flags/pe.svg",
-    "currency": "Перуанский соль",
-    "population": 34000000,
-    "area": 1285216,
-    "region": 2,
-    "interestingFact": "В Перу находится древний город Мачу-Пикчу, построенный цивилизацией инков высоко в Андах.",
-    "languages": [
-      {
-        "name": "Испанский",
-        "sinceYear": 1821,
-        "isOfficial": true
-      },
-      {
-        "name": "Кечуа",
-        "sinceYear": 1975,
-        "isOfficial": true
-      },
-      {
-        "name": "Аймара",
-        "sinceYear": 1975,
-        "isOfficial": true
-      }
-    ]
-  },
-  {
-    "name": "Япония",
-    "capital": "Токио",
-    "region": 5,
-    "flagPath": "Images/Flags/jp.svg",
-    "population": 125000000,
-    "area": 377975,
-    "currency": "Иена",
-    "languages": [
-      {
-        "name": "Японский",
-        "sinceYear": 1947,
-        "isOfficial": true
-      }
-    ],
-    "interestingFact": "Япония состоит из более чем 6000 островов."
-  },
-  {
+    {
     "name": "Австрия",
     "capital": "Вена",
     "flagPath": "Images/Flags/at.svg",
@@ -154,7 +51,7 @@
     ]
   },
   {
-    "name": "Беларусь",
+    "name": "Республика Беларусь",
     "capital": "Минск",
     "flagPath": "Images/Flags/by.svg",
     "currency": "Белорусский рубль",
@@ -333,5 +230,762 @@
         "isOfficial": true
       }
     ]
+  },
+  {
+    "name": "Греция",
+    "capital": "Афины",
+    "flagPath": "Images/Flags/gr.svg",
+    "currency": "Евро",
+    "population": 10400000,
+    "area": 131957,
+    "region": 0,
+    "interestingFact": "Греция расположена на юге Балканского полуострова и имеет тысячи островов в Эгейском и Ионическом морях. Около 80% территории страны занимают горы.",
+    "languages": [
+      {
+        "name": "Греческий",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Дания",
+    "capital": "Копенгаген",
+    "flagPath": "Images/Flags/dk.svg",
+    "currency": "Датская крона",
+    "population": 6000000,
+    "area": 43094,
+    "region": 0,
+    "interestingFact": "Дания состоит из полуострова Ютландия и более чем 400 островов, из которых обитаемы около 70. Страна также включает автономные территории Гренландию и Фарерские острова.",
+    "languages": [
+      {
+        "name": "Датский",
+        "sinceYear": 1953,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Ирландия",
+    "capital": "Дублин",
+    "flagPath": "Images/Flags/ie.svg",
+    "currency": "Евро",
+    "population": 5500000,
+    "area": 70273,
+    "region": 0,
+    "interestingFact": "Ирландия занимает большую часть одноимённого острова и отделена от Великобритании Ирландским морем. В центре острова преобладают низменности, окружённые горными районами.",
+    "languages": [
+      {
+        "name": "Ирландский",
+        "sinceYear": 1937,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1937,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Исландия",
+    "capital": "Рейкьявик",
+    "flagPath": "Images/Flags/is.svg",
+    "currency": "Исландская крона",
+    "population": 400000,
+    "area": 103000,
+    "region": 0,
+    "interestingFact": "Исландия расположена на острове в северной части Атлантического океана и находится на границе Североамериканской и Евразийской тектонических плит. Страна известна вулканами, гейзерами, ледниками и горячими источниками.",
+    "languages": [
+      {
+        "name": "Исландский",
+        "sinceYear": 1944,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Испания",
+    "capital": "Мадрид",
+    "flagPath": "Images/Flags/es.svg",
+    "currency": "Евро",
+    "population": 48000000,
+    "area": 505990,
+    "region": 0,
+    "interestingFact": "Испания занимает большую часть Пиренейского полуострова и имеет сухопутную границу только с четырьмя странами: Португалией, Францией, Андоррой и Марокко (через территории Сеута и Мелилья).",
+    "languages": [
+      {
+        "name": "Испанский",
+        "sinceYear": 1978,
+        "isOfficial": true
+      },
+      {
+        "name": "Каталанский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Галисийский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Баскский",
+        "sinceYear": 1978,
+        "isOfficial": false
+      },
+      {
+        "name": "Аранский",
+        "sinceYear": 2010,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Италия",
+    "capital": "Рим",
+    "flagPath": "Images/Flags/it.svg",
+    "currency": "Евро",
+    "population": 59000000,
+    "area": 301340,
+    "region": 0,
+    "interestingFact": "Италия расположена на Апеннинском полуострове и включает два крупных острова, Сицилию и Сардинию. На её территории находятся действующие вулканы Этна и Везувий.",
+    "languages": [
+      {
+        "name": "Итальянский",
+        "sinceYear": 1948,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Латвия",
+    "capital": "Рига",
+    "flagPath": "Images/Flags/lv.svg",
+    "currency": "Евро",
+    "population": 1800000,
+    "area": 64589,
+    "region": 0,
+    "interestingFact": "Латвия расположена на восточном побережье Балтийского моря. Значительную часть её территории занимают леса, а в стране насчитывается более 12 тысяч рек и около 3 тысяч озёр.",
+    "languages": [
+      {
+        "name": "Латышский",
+        "sinceYear": 1989,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Литва",
+    "capital": "Вильнюс",
+    "flagPath": "Images/Flags/lt.svg",
+    "currency": "Евро",
+    "population": 2900000,
+    "area": 65300,
+    "region": 0,
+    "interestingFact": "Литва является самой южной из стран Балтии. Её территория преимущественно равнинная, а на западе страна имеет выход к Балтийскому морю и Куршскому заливу.",
+    "languages": [
+      {
+        "name": "Литовский",
+        "sinceYear": 1990,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Лихтенштейн",
+    "capital": "Вадуц",
+    "flagPath": "Images/Flags/li.svg",
+    "currency": "Швейцарский франк",
+    "population": 40000,
+    "area": 160,
+    "region": 0,
+    "interestingFact": "Лихтенштейн — небольшое горное государство в Альпах, расположенное между Швейцарией и Австрией. Это одна из двух стран мира, полностью окружённых государствами, которые не имеют выхода к морю.",
+    "languages": [
+      {
+        "name": "Немецкий",
+        "sinceYear": 1921,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Люксембург",
+    "capital": "Люксембург",
+    "flagPath": "Images/Flags/lu.svg",
+    "currency": "Евро",
+    "population": 680000,
+    "area": 2586,
+    "region": 0,
+    "interestingFact": "Люксембург — одно из самых маленьких государств Европы, расположенное между Бельгией, Германией и Францией. Значительную часть его территории занимают леса и холмистые районы Арденн.",
+    "languages": [
+      {
+        "name": "Люксембургский",
+        "sinceYear": 1984,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1984,
+        "isOfficial": true
+      },
+      {
+        "name": "Немецкий",
+        "sinceYear": 1984,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Мальта",
+    "capital": "Валлетта",
+    "flagPath": "Images/Flags/mt.svg",
+    "currency": "Евро",
+    "population": 570000,
+    "area": 316,
+    "region": 0,
+    "interestingFact": "Мальта — островное государство в центральной части Средиземного моря. Архипелаг состоит из нескольких островов, но постоянно населены в основном Мальта, Гозо и Комино.",
+    "languages": [
+      {
+        "name": "Мальтийский",
+        "sinceYear": 1964,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1964,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Молдова",
+    "capital": "Кишинёв",
+    "flagPath": "Images/Flags/md.svg",
+    "currency": "Молдавский лей",
+    "population": 2400000,
+    "area": 33846,
+    "region": 0,
+    "interestingFact": "Молдавия расположена между Румынией и Украиной, не имеет выхода к морю и преимущественно представляет собой холмистую равнину. Через юг страны протекает река Днестр.",
+    "languages": [
+      {
+        "name": "Румынский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Монако",
+    "capital": "Монако",
+    "flagPath": "Images/Flags/mc.svg",
+    "currency": "Евро",
+    "population": 39000,
+    "area": 2.02,
+    "region": 0,
+    "interestingFact": "Монако — второе по площади самое маленькое государство мира после Ватикана. Оно расположено на побережье Средиземного моря у подножия Альп и почти полностью окружено территорией Франции.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1911,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Нидерланды",
+    "capital": "Амстердам",
+    "flagPath": "Images/Flags/nl.svg",
+    "currency": "Евро",
+    "population": 18300000,
+    "area": 41850,
+    "region": 0,
+    "interestingFact": "Значительная часть территории Нидерландов расположена ниже уровня моря. Страна защищает низменные земли системой дамб, каналов и польдеров, а около четверти её территории находится ниже уровня моря.",
+    "languages": [
+      {
+        "name": "Нидерландский",
+        "sinceYear": 1815,
+        "isOfficial": true
+      },
+      {
+        "name": "Фризский",
+        "sinceYear": 1956,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Норвегия",
+    "capital": "Осло",
+    "flagPath": "Images/Flags/no.svg",
+    "currency": "Норвежская крона",
+    "population": 5600000,
+    "area": 385207,
+    "region": 0,
+    "interestingFact": "Норвегия имеет один из самых протяжённых и изрезанных берегов Европы благодаря многочисленным фьордам. На севере страны летом можно наблюдать полярный день, а зимой — полярную ночь.",
+    "languages": [
+      {
+        "name": "Норвежский",
+        "sinceYear": 1885,
+        "isOfficial": true
+      },
+      {
+        "name": "Северносаамский",
+        "sinceYear": 1990,
+        "isOfficial": false
+      },
+      {
+        "name": "Луле-саамский",
+        "sinceYear": 1990,
+        "isOfficial": false
+      },
+      {
+        "name": "Южносаамский",
+        "sinceYear": 1990,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Польша",
+    "capital": "Варшава",
+    "flagPath": "Images/Flags/pl.svg",
+    "currency": "Польский злотый",
+    "population": 37000000,
+    "area": 312696,
+    "region": 0,
+    "interestingFact": "Польша расположена в Центральной Европе, а большая часть её территории представляет собой равнину. На юге страны находятся Судеты и Карпаты, включая горный массив Татры.",
+    "languages": [
+      {
+        "name": "Польский",
+        "sinceYear": 1997,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Португалия",
+    "capital": "Лиссабон",
+    "flagPath": "Images/Flags/pt.svg",
+    "currency": "Евро",
+    "population": 10700000,
+    "area": 92212,
+    "region": 0,
+    "interestingFact": "Португалия расположена на западной окраине Пиренейского полуострова и имеет выход к Атлантическому океану. В состав страны также входят архипелаги Азорских островов и Мадейры.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1976,
+        "isOfficial": true
+      },
+      {
+        "name": "Мирандский",
+        "sinceYear": 1999,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Российская Федерация",
+    "capital": "Москва",
+    "flagPath": "Images/Flags/ru.svg",
+    "currency": "Российский рубль",
+    "population": 144000000,
+    "area": 17098246,
+    "region": 0,
+    "interestingFact": "Россия — крупнейшая страна мира по площади. Она простирается от Балтийского и Чёрного морей на западе до Тихого океана на востоке и пересекает одиннадцать часовых поясов.",
+    "languages": [
+      {
+        "name": "Русский",
+        "sinceYear": 1993,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Румыния",
+    "capital": "Бухарест",
+    "flagPath": "Images/Flags/ro.svg",
+    "currency": "Румынский лей",
+    "population": 19000000,
+    "area": 238397,
+    "region": 0,
+    "interestingFact": "Румыния расположена в Юго-Восточной Европе. Через её территорию проходят Карпаты, а на юге находится обширная равнина, через которую протекает Дунай, впадающий в Чёрное море.",
+    "languages": [
+      {
+        "name": "Румынский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сан-Марино",
+    "capital": "Сан-Марино",
+    "flagPath": "Images/Flags/sm.svg",
+    "currency": "Евро",
+    "population": 34000,
+    "area": 61,
+    "region": 0,
+    "interestingFact": "Сан-Марино — одно из самых маленьких государств Европы и одно из старейших государств мира. Оно полностью окружено территорией Италии и расположено на склонах горы Монте-Титано.",
+    "languages": [
+      {
+        "name": "Итальянский",
+        "sinceYear": 1862,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Северная Македония",
+    "capital": "Скопье",
+    "flagPath": "Images/Flags/mk.svg",
+    "currency": "Македонский денар",
+    "population": 1800000,
+    "area": 25713,
+    "region": 0,
+    "interestingFact": "Северная Македония расположена в центральной части Балканского полуострова и не имеет выхода к морю. Большую часть её территории занимают горы и холмы, а крупнейшее озеро страны, Охридское, является одним из древнейших озёр Европы.",
+    "languages": [
+      {
+        "name": "Македонский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      },
+      {
+        "name": "Албанский",
+        "sinceYear": 2019,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Сербия",
+    "capital": "Белград",
+    "flagPath": "Images/Flags/rs.svg",
+    "currency": "Сербский динар",
+    "population": 6600000,
+    "area": 88361,
+    "region": 0,
+    "interestingFact": "Сербия расположена в центральной части Балканского полуострова и не имеет выхода к морю. Через Белград проходит Дунай, который пересекает страну с северо-запада на юго-восток.",
+    "languages": [
+      {
+        "name": "Сербский",
+        "sinceYear": 2006,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Словакия",
+    "capital": "Братислава",
+    "flagPath": "Images/Flags/sk.svg",
+    "currency": "Евро",
+    "population": 5400000,
+    "area": 49035,
+    "region": 0,
+    "interestingFact": "Словакия расположена в Центральной Европе и не имеет выхода к морю. Значительную часть её территории занимают Карпаты, включая Высокие Татры с самой высокой вершиной страны Герлаховским Штитом.",
+    "languages": [
+      {
+        "name": "Словацкий",
+        "sinceYear": 1993,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Словения",
+    "capital": "Любляна",
+    "flagPath": "Images/Flags/si.svg",
+    "currency": "Евро",
+    "population": 2100000,
+    "area": 20273,
+    "region": 0,
+    "interestingFact": "Словения находится на стыке Альп, Динарских гор и Паннонской низменности. Несмотря на небольшую площадь, страна имеет выход к Адриатическому морю и отличается большим разнообразием рельефа.",
+    "languages": [
+      {
+        "name": "Словенский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      },
+      {
+        "name": "Итальянский",
+        "sinceYear": 1991,
+        "isOfficial": false
+      },
+      {
+        "name": "Венгерский",
+        "sinceYear": 1991,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Украина",
+    "capital": "Киев",
+    "flagPath": "Images/Flags/ua.svg",
+    "currency": "Украинская гривна",
+    "population": 39000000,
+    "area": 603628,
+    "region": 0,
+    "interestingFact": "Украина — крупнейшая по площади страна, полностью расположенная в Европе. На её территории находятся Карпаты, Причерноморская низменность и значительная часть бассейна Днепра.",
+    "languages": [
+      {
+        "name": "Украинский",
+        "sinceYear": 1996,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Финляндия",
+    "capital": "Хельсинки",
+    "flagPath": "Images/Flags/fi.svg",
+    "currency": "Евро",
+    "population": 5600000,
+    "area": 338455,
+    "region": 0,
+    "interestingFact": "Финляндия известна огромным количеством озёр и лесов. Около 75% её территории покрыто лесами, а в стране насчитывается около 168 тысяч озёр.",
+    "languages": [
+      {
+        "name": "Финский",
+        "sinceYear": 1922,
+        "isOfficial": true
+      },
+      {
+        "name": "Шведский",
+        "sinceYear": 1922,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Франция",
+    "capital": "Париж",
+    "flagPath": "Images/Flags/fr.svg",
+    "currency": "Евро",
+    "population": 69000000,
+    "area": 551695,
+    "region": 0,
+    "interestingFact": "Франция имеет выход сразу к Атлантическому океану, Ла-Маншу и Средиземному морю. Её территория включает Альпы, Пиренеи и обширные равнины, а вместе с заморскими территориями Франция располагается на всех обитаемых континентах, кроме Азии.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1992,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Хорватия",
+    "capital": "Загреб",
+    "flagPath": "Images/Flags/hr.svg",
+    "currency": "Евро",
+    "population": 3800000,
+    "area": 56594,
+    "region": 0,
+    "interestingFact": "Хорватия имеет длинное и сильно изрезанное побережье Адриатического моря и более тысячи островов. Через её территорию проходят Динарские Альпы.",
+    "languages": [
+      {
+        "name": "Хорватский",
+        "sinceYear": 1990,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Черногория",
+    "capital": "Подгорица",
+    "flagPath": "Images/Flags/me.svg",
+    "currency": "Евро",
+    "population": 620000,
+    "area": 13812,
+    "region": 0,
+    "interestingFact": "Черногория расположена на побережье Адриатического моря и известна горным рельефом. В стране находится каньон реки Тара, один из самых глубоких каньонов Европы.",
+    "languages": [
+      {
+        "name": "Черногорский",
+        "sinceYear": 2007,
+        "isOfficial": true
+      },
+      {
+        "name": "Сербский",
+        "sinceYear": 2007,
+        "isOfficial": false
+      },
+      {
+        "name": "Боснийский",
+        "sinceYear": 2007,
+        "isOfficial": false
+      },
+      {
+        "name": "Албанский",
+        "sinceYear": 2007,
+        "isOfficial": false
+      },
+      {
+        "name": "Хорватский",
+        "sinceYear": 2007,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Чехия",
+    "capital": "Прага",
+    "flagPath": "Images/Flags/cz.svg",
+    "currency": "Чешская крона",
+    "population": 10900000,
+    "area": 78871,
+    "region": 0,
+    "interestingFact": "Чехия расположена в центре Европы и не имеет выхода к морю. Её территорию окружают исторические горные массивы, а главная река страны Влтава протекает через Прагу.",
+    "languages": [
+      {
+        "name": "Чешский",
+        "sinceYear": 1993,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Швейцария",
+    "capital": "Берн",
+    "flagPath": "Images/Flags/ch.svg",
+    "currency": "Швейцарский франк",
+    "population": 9100000,
+    "area": 41285,
+    "region": 0,
+    "interestingFact": "Швейцария расположена в Альпах и не имеет выхода к морю. Около 60% её территории занимают Альпы, а в стране находится более 1 500 озёр.",
+    "languages": [
+      {
+        "name": "Немецкий",
+        "sinceYear": 1848,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1848,
+        "isOfficial": true
+      },
+      {
+        "name": "Итальянский",
+        "sinceYear": 1848,
+        "isOfficial": true
+      },
+      {
+        "name": "Романшский",
+        "sinceYear": 1938,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Швеция",
+    "capital": "Стокгольм",
+    "flagPath": "Images/Flags/se.svg",
+    "currency": "Шведская крона",
+    "population": 10600000,
+    "area": 450295,
+    "region": 0,
+    "interestingFact": "Швеция — крупнейшая страна Северной Европы по площади. Её территория вытянута с севера на юг, а значительную часть занимают леса и многочисленные озёра.",
+    "languages": [
+      {
+        "name": "Шведский",
+        "sinceYear": 2009,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Эстония",
+    "capital": "Таллин",
+    "flagPath": "Images/Flags/ee.svg",
+    "currency": "Евро",
+    "population": 1370000,
+    "area": 45339,
+    "region": 0,
+    "interestingFact": "Эстония расположена на восточном побережье Балтийского моря и включает более 2 000 островов. Страна отличается большим количеством лесов, болот и озёр.",
+    "languages": [
+      {
+        "name": "Эстонский",
+        "sinceYear": 1992,
+        "isOfficial": true
+      }
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "name": "Канада",
+    "capital": "Оттава",
+    "flagPath": "Images/Flags/ca.svg",
+    "currency": "Канадский доллар",
+    "population": 41000000,
+    "area": 9984670,
+    "region": 1,
+    "interestingFact": "Канада имеет самую длинную береговую линию в мире и занимает второе место по площади среди стран мира",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1969,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1969,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Перу",
+    "capital": "Лима",
+    "flagPath": "Images/Flags/pe.svg",
+    "currency": "Перуанский соль",
+    "population": 34000000,
+    "area": 1285216,
+    "region": 2,
+    "interestingFact": "В Перу находится древний город Мачу-Пикчу, построенный цивилизацией инков высоко в Андах.",
+    "languages": [
+      {
+        "name": "Испанский",
+        "sinceYear": 1821,
+        "isOfficial": true
+      },
+      {
+        "name": "Кечуа",
+        "sinceYear": 1975,
+        "isOfficial": true
+      },
+      {
+        "name": "Аймара",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Япония",
+    "capital": "Токио",
+    "region": 5,
+    "flagPath": "Images/Flags/jp.svg",
+    "population": 125000000,
+    "area": 377975,
+    "currency": "Иена",
+    "languages": [
+      {
+        "name": "Японский",
+        "sinceYear": 1947,
+        "isOfficial": true
+      }
+    ],
+    "interestingFact": "Япония состоит из более чем 6000 островов."
   }
 ]
