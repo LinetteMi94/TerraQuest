@@ -1557,6 +1557,1292 @@
       }
     ]
   },
+  {
+    "name": "Алжир",
+    "capital": "Алжир",
+    "flagPath": "Images/Flags/dz.svg",
+    "currency": "Алжирский динар",
+    "population": 48000000,
+    "area": 2381741,
+    "region": 4,
+    "interestingFact": "Алжир — крупнейшая страна Африки по площади. Большую часть его территории занимает пустыня Сахара, а на севере находятся горы Атлас и узкая полоса средиземноморского побережья.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 1963,
+        "isOfficial": true
+      },
+      {
+        "name": "Тамазигхт",
+        "sinceYear": 2016,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Ангола",
+    "capital": "Луанда",
+    "flagPath": "Images/Flags/ao.svg",
+    "currency": "Ангольская кванза",
+    "population": 39000000,
+    "area": 1246700,
+    "region": 4,
+    "interestingFact": "Ангола расположена на юго-западе Африки и имеет выход к Атлантическому океану. Большую часть страны занимает плоскогорье, которое постепенно понижается к узкой прибрежной равнине.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Бенин",
+    "capital": "Порто-Ново",
+    "flagPath": "Images/Flags/bj.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 14700000,
+    "area": 114763,
+    "region": 4,
+    "interestingFact": "Бенин расположен на побережье Гвинейского залива. На юге страны находятся низменности и лагуны, а к северу территория постепенно переходит в саванны.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1990,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Ботсвана",
+    "capital": "Габороне",
+    "flagPath": "Images/Flags/bw.svg",
+    "currency": "Ботсванская пула",
+    "population": 2600000,
+    "area": 581730,
+    "region": 4,
+    "interestingFact": "Большую часть Ботсваны занимает пустыня Калахари. На севере страны находится дельта Окаванго, уникальная внутренняя дельта, воды которой не достигают океана, а постепенно испаряются и просачиваются в пески.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1966,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Буркина-Фасо",
+    "capital": "Уагадугу",
+    "flagPath": "Images/Flags/bf.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 25000000,
+    "area": 274200,
+    "region": 4,
+    "interestingFact": "Буркина-Фасо не имеет выхода к морю и расположена в переходной зоне между саваннами и более засушливыми районами Сахеля. Рельеф страны преимущественно равнинный, с отдельными плато и возвышенностями.",
+    "languages": [
+      {
+        "name": "Мори",
+        "sinceYear": 2024,
+        "isOfficial": true
+      },
+      {
+        "name": "Дьюла",
+        "sinceYear": 2024,
+        "isOfficial": true
+      },
+      {
+        "name": "Фула",
+        "sinceYear": 2024,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Бурунди",
+    "capital": "Гитега",
+    "flagPath": "Images/Flags/bi.svg",
+    "currency": "Бурундийский франк",
+    "population": 14000000,
+    "area": 27834,
+    "region": 4,
+    "interestingFact": "Бурунди расположена в районе Великих Африканских озёр. На западе страна имеет выход к озеру Танганьика, одному из самых глубоких озёр мира, а большая часть территории представляет собой холмистое плоскогорье.",
+    "languages": [
+      {
+        "name": "Кирунди",
+        "sinceYear": 2018,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 2018,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 2018,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Габон",
+    "capital": "Либревиль",
+    "flagPath": "Images/Flags/ga.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 2400000,
+    "area": 267667,
+    "region": 4,
+    "interestingFact": "Большую часть территории Габона занимают влажные экваториальные леса бассейна реки Огове. Страна расположена на экваторе и имеет выход к Атлантическому океану.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 2024,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Гамбия",
+    "capital": "Банжул",
+    "flagPath": "Images/Flags/gm.svg",
+    "currency": "Гамбийский даласи",
+    "population": 2200000,
+    "area": 11295,
+    "region": 4,
+    "interestingFact": "Гамбия почти полностью окружена территорией Сенегала и представляет собой узкую полосу земли вдоль реки Гамбия. Это самая маленькая страна материковой Африки.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1965,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Гана",
+    "capital": "Аккра",
+    "flagPath": "Images/Flags/gh.svg",
+    "currency": "Ганский седи",
+    "population": 35000000,
+    "area": 238533,
+    "region": 4,
+    "interestingFact": "Гана расположена на побережье Гвинейского залива. Озеро Вольта, образованное плотиной на реке Вольта, является одним из крупнейших искусственных водохранилищ мира по площади.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1957,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Гвинея",
+    "capital": "Конакри",
+    "flagPath": "Images/Flags/gn.svg",
+    "currency": "Гвинейский франк",
+    "population": 14000000,
+    "area": 245857,
+    "region": 4,
+    "interestingFact": "Гвинея отличается большим разнообразием рельефа: от прибрежных низменностей Атлантики до горного массива Фута-Джаллон и лесистых гор на юго-востоке. Здесь находится гора Нимба, расположенная на границе с Кот-д'Ивуаром и Либерией.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1958,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Гвинея-Бисау",
+    "capital": "Бисау",
+    "flagPath": "Images/Flags/gw.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 2200000,
+    "area": 36125,
+    "region": 4,
+    "interestingFact": "Гвинея-Бисау расположена на побережье Атлантического океана и включает архипелаг Бижагош. Страна отличается низменным рельефом, многочисленными реками и мангровыми зарослями.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1974,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Демократическая Республика Конго",
+    "capital": "Киншаса",
+    "flagPath": "Images/Flags/cd.svg",
+    "currency": "Конголезский франк",
+    "population": 112000000,
+    "area": 2345410,
+    "region": 4,
+    "interestingFact": "Демократическая Республика Конго находится в центре Африки и занимает большую часть бассейна реки Конго. На её территории расположен один из крупнейших тропических лесов мира, а также множество уникальных экосистем.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      },
+      {
+        "name": "Лингала",
+        "sinceYear": 1960,
+        "isOfficial": false
+      },
+      {
+        "name": "Суахили",
+        "sinceYear": 1960,
+        "isOfficial": false
+      },
+      {
+        "name": "Киконго",
+        "sinceYear": 1960,
+        "isOfficial": false
+      },
+      {
+        "name": "Чилуба",
+        "sinceYear": 1960,
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "name": "Джибути",
+    "capital": "Джибути",
+    "flagPath": "Images/Flags/dj.svg",
+    "currency": "Франк Джибути",
+    "population": 1200000,
+    "area": 23200,
+    "region": 4,
+    "interestingFact": "Джибути расположена на Африканском Роге у входа в Баб-эль-Мандебский пролив. Здесь находится озеро Ассаль, одна из самых низких точек Африки и одно из самых солёных озёр мира.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1977,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 1977,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Египет",
+    "capital": "Каир",
+    "flagPath": "Images/Flags/eg.svg",
+    "currency": "Египетский фунт",
+    "population": 120000000,
+    "area": 1002450,
+    "region": 4,
+    "interestingFact": "Большая часть территории Египта покрыта пустынями, а население сосредоточено преимущественно вдоль Нила и в его дельте. Египет одновременно находится в Африке и Азии, поскольку Синайский полуостров расположен в Азии.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 2014,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Замбия",
+    "capital": "Лусака",
+    "flagPath": "Images/Flags/zm.svg",
+    "currency": "Замбийская квача",
+    "population": 22000000,
+    "area": 752612,
+    "region": 4,
+    "interestingFact": "Замбия не имеет выхода к морю и расположена преимущественно на высоком плато. На границе с Зимбабве находится водопад Виктория на реке Замбези, один из крупнейших водопадов мира.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1964,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Зимбабве",
+    "capital": "Хараре",
+    "flagPath": "Images/Flags/zw.svg",
+    "currency": "Золотой Zimbabwe ZiG",
+    "population": 17000000,
+    "area": 390757,
+    "region": 4,
+    "interestingFact": "Зимбабве расположена на высоком плато между реками Замбези и Лимпопо. На северо-западной границе находится водопад Виктория, который Зимбабве делит с Замбией.",
+    "languages": [
+      {
+        "name": "Чева",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Чибарве",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Калангa",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Койсанские языки",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Намбийский",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Ндебеле",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Шона",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Сото",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Тсонга",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Тсвана",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Венда",
+        "sinceYear": 2013,
+        "isOfficial": true
+      },
+      {
+        "name": "Коса",
+        "sinceYear": 2013,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Кабо-Верде",
+    "capital": "Прая",
+    "flagPath": "Images/Flags/cv.svg",
+    "currency": "Эскудо Кабо-Верде",
+    "population": 530000,
+    "area": 4033,
+    "region": 4,
+    "interestingFact": "Кабо-Верде — островное государство в Атлантическом океане у западного побережья Африки. Архипелаг состоит из вулканических островов, часть которых имеет горный и засушливый ландшафт.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Камерун",
+    "capital": "Яунде",
+    "flagPath": "Images/Flags/cm.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 30000000,
+    "area": 475442,
+    "region": 4,
+    "interestingFact": "Камерун называют «Африкой в миниатюре» из-за большого разнообразия природных зон: здесь есть побережье, тропические леса, саванны и горы. На западе находится вулкан Камерун, одна из высочайших вершин Африки.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1961,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1961,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Кения",
+    "capital": "Найроби",
+    "flagPath": "Images/Flags/ke.svg",
+    "currency": "Кенийский шиллинг",
+    "population": 57000000,
+    "area": 580367,
+    "region": 4,
+    "interestingFact": "Кения расположена в Восточной Африке и имеет выход к Индийскому океану. Через страну проходит Великая рифтовая долина, а гора Кения является второй по высоте вершиной Африки после Килиманджаро.",
+    "languages": [
+      {
+        "name": "Суахили",
+        "sinceYear": 2010,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 2010,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Коморские Острова",
+    "capital": "Морони",
+    "flagPath": "Images/Flags/km.svg",
+    "currency": "Коморский франк",
+    "population": 870000,
+    "area": 1862,
+    "region": 4,
+    "interestingFact": "Коморские Острова — архипелаг в Индийском океане между Мадагаскаром и восточным побережьем Африки. Острова имеют вулканическое происхождение, а на острове Гранд-Комор находится действующий вулкан Картала.",
+    "languages": [
+      {
+        "name": "Коморский",
+        "sinceYear": 2001,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 2001,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 2001,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Конго",
+    "capital": "Браззавиль",
+    "flagPath": "Images/Flags/cg.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 6600000,
+    "area": 342000,
+    "region": 4,
+    "interestingFact": "Большая часть Республики Конго покрыта тропическими лесами бассейна реки Конго. На юге страны расположена узкая прибрежная равнина с выходом к Атлантическому океану.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1992,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Кот-д’Ивуар",
+    "capital": "Ямусукро",
+    "flagPath": "Images/Flags/ci.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 32000000,
+    "area": 322462,
+    "region": 4,
+    "interestingFact": "Кот-д’Ивуар расположен на побережье Гвинейского залива. Южная часть страны покрыта влажными тропическими лесами, а север постепенно переходит в зону саванн.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Лесото",
+    "capital": "Масеру",
+    "flagPath": "Images/Flags/ls.svg",
+    "currency": "Лоти",
+    "population": 2300000,
+    "area": 30355,
+    "region": 4,
+    "interestingFact": "Лесото — единственная независимая страна мира, полностью расположенная выше 1 000 метров над уровнем моря. Её территория почти полностью покрыта горами Драконовы горы.",
+    "languages": [
+      {
+        "name": "Сесото",
+        "sinceYear": 1966,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1966,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Либерия",
+    "capital": "Монровия",
+    "flagPath": "Images/Flags/lr.svg",
+    "currency": "Либерийский доллар",
+    "population": 5700000,
+    "area": 111369,
+    "region": 4,
+    "interestingFact": "Либерия расположена на западном побережье Африки и имеет выход к Атлантическому океану. Страна известна густыми тропическими лесами и одним из крупнейших участков сохранившихся лесов Верхней Гвинеи.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1847,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Ливия",
+    "capital": "Триполи",
+    "flagPath": "Images/Flags/ly.svg",
+    "currency": "Ливийский динар",
+    "population": 7400000,
+    "area": 1759540,
+    "region": 4,
+    "interestingFact": "Ливия — одна из крупнейших стран Африки по площади, большая часть которой покрыта пустыней Сахара. Население в основном сосредоточено вдоль побережья Средиземного моря.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 2011,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Маврикий",
+    "capital": "Порт-Луи",
+    "flagPath": "Images/Flags/mu.svg",
+    "currency": "Маврикийская рупия",
+    "population": 1300000,
+    "area": 2040,
+    "region": 4,
+    "interestingFact": "Маврикий — островное государство в Индийском океане к востоку от Мадагаскара. Остров имеет вулканическое происхождение и окружён коралловыми рифами.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1968,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Мавритания",
+    "capital": "Нуакшот",
+    "flagPath": "Images/Flags/mr.svg",
+    "currency": "Мавританская угия",
+    "population": 5100000,
+    "area": 1030700,
+    "region": 4,
+    "interestingFact": "Мавритания находится на северо-западе Африки, и около 90% её территории занимает пустыня Сахара. На побережье Атлантического океана расположены важные природные зоны, включая национальный парк Банк-д’Арген.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 1991,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Мадагаскар",
+    "capital": "Антананариву",
+    "flagPath": "Images/Flags/mg.svg",
+    "currency": "Малагасийский ариари",
+    "population": 32000000,
+    "area": 587041,
+    "region": 4,
+    "interestingFact": "Мадагаскар — четвёртый по величине остров мира, расположенный в Индийском океане у восточного побережья Африки. Из-за длительной изоляции здесь сформировалось множество уникальных видов растений и животных, включая лемуров.",
+    "languages": [
+      {
+        "name": "Малагасийский",
+        "sinceYear": 2010,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 2010,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Малави",
+    "capital": "Лилонгве",
+    "flagPath": "Images/Flags/mw.svg",
+    "currency": "Малавийская квача",
+    "population": 22000000,
+    "area": 118484,
+    "region": 4,
+    "interestingFact": "Малави находится в Восточной Африке и известна озером Малави, одним из крупнейших и самых глубоких озёр Африки. Большую часть территории занимает высокое плато.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1964,
+        "isOfficial": true
+      },
+      {
+        "name": "Чичева",
+        "sinceYear": 1964,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Мали",
+    "capital": "Бамако",
+    "flagPath": "Images/Flags/ml.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 25000000,
+    "area": 1240192,
+    "region": 4,
+    "interestingFact": "Мали — одна из крупнейших стран Западной Африки. Значительную часть территории занимает пустыня Сахара, а на юге расположены саванны и долина реки Нигер.",
+    "languages": [
+      {
+        "name": "Бамбара",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Бобо",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Бозо",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Догон",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Фула",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Хассания",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Кассонке",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Манинка",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Минианка",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Сенуфо",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Сонгай",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Сонинке",
+        "sinceYear": 2023,
+        "isOfficial": true
+      },
+      {
+        "name": "Тамашек",
+        "sinceYear": 2023,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Марокко",
+    "capital": "Рабат",
+    "flagPath": "Images/Flags/ma.svg",
+    "currency": "Марокканский дирхам",
+    "population": 38000000,
+    "area": 446550,
+    "region": 4,
+    "interestingFact": "Марокко расположено на северо-западе Африки между Атлантическим океаном и Средиземным морем. На территории страны находятся горы Атлас и часть пустыни Сахара.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 2011,
+        "isOfficial": true
+      },
+      {
+        "name": "Тамазигхт",
+        "sinceYear": 2011,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Мозамбик",
+    "capital": "Мапуту",
+    "flagPath": "Images/Flags/mz.svg",
+    "currency": "Мозамбикский метикал",
+    "population": 35000000,
+    "area": 801590,
+    "region": 4,
+    "interestingFact": "Мозамбик расположен на юго-востоке Африки и имеет длинное побережье Индийского океана. У берегов страны находится часть уникальной экосистемы коралловых рифов и множество островов.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Намибия",
+    "capital": "Виндхук",
+    "flagPath": "Images/Flags/na.svg",
+    "currency": "Намибийский доллар",
+    "population": 3000000,
+    "area": 825615,
+    "region": 4,
+    "interestingFact": "Намибия — одна из самых засушливых стран Африки. На её территории находится пустыня Намиб с одними из самых высоких песчаных дюн мира, а также национальный парк Этоша с богатой фауной.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1990,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Нигер",
+    "capital": "Ниамей",
+    "flagPath": "Images/Flags/ne.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 28000000,
+    "area": 1267000,
+    "region": 4,
+    "interestingFact": "Нигер — одна из крупнейших стран Африки по площади, но большая часть его территории находится в пустыне Сахара и Сахеле. Через юго-запад страны протекает река Нигер, давшая название государству.",
+    "languages": [
+      {
+        "name": "Хауса",
+        "sinceYear": 2025,
+        "isOfficial": true
+      },
+      {
+        "name": "Джерма",
+        "sinceYear": 2025,
+        "isOfficial": true
+      },
+      {
+        "name": "Туарегский",
+        "sinceYear": 2025,
+        "isOfficial": true
+      },
+      {
+        "name": "Фула",
+        "sinceYear": 2025,
+        "isOfficial": true
+      },
+      {
+        "name": "Канури",
+        "sinceYear": 2025,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 2025,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Нигерия",
+    "capital": "Абуджа",
+    "flagPath": "Images/Flags/ng.svg",
+    "currency": "Найра",
+    "population": 240000000,
+    "area": 923768,
+    "region": 4,
+    "interestingFact": "Нигерия — самая населённая страна Африки. На юге она имеет выход к Гвинейскому заливу, а территория включает дельту Нигера, одну из крупнейших речных дельт мира.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Руанда",
+    "capital": "Кигали",
+    "flagPath": "Images/Flags/rw.svg",
+    "currency": "Франк Руанды",
+    "population": 15000000,
+    "area": 26338,
+    "region": 4,
+    "interestingFact": "Руанду называют «страной тысячи холмов» из-за её холмистого рельефа. На северо-западе страны находятся вулканические горы Вирунга, где обитают редкие горные гориллы.",
+    "languages": [
+      {
+        "name": "Киньяруанда",
+        "sinceYear": 2003,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 2003,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 2003,
+        "isOfficial": true
+      },
+      {
+        "name": "Суахили",
+        "sinceYear": 2017,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сан-Томе и Принсипи",
+    "capital": "Сан-Томе",
+    "flagPath": "Images/Flags/st.svg",
+    "currency": "Добра",
+    "population": 240000,
+    "area": 964,
+    "region": 4,
+    "interestingFact": "Сан-Томе и Принсипи — островное государство в Гвинейском заливе. Острова имеют вулканическое происхождение, а их ландшафты включают тропические леса и высокие вулканические вершины.",
+    "languages": [
+      {
+        "name": "Португальский",
+        "sinceYear": 1975,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сейшельские острова",
+    "capital": "Виктория",
+    "flagPath": "Images/Flags/sc.svg",
+    "currency": "Сейшельская рупия",
+    "population": 130000,
+    "area": 459,
+    "region": 4,
+    "interestingFact": "Сейшелы — островное государство в Индийском океане, состоящее из более чем 100 островов. Большая часть островов имеет гранитное происхождение, а их побережья окружены коралловыми рифами.",
+    "languages": [
+      {
+        "name": "Сейшельский креольский",
+        "sinceYear": 1976,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1976,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1976,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сенегал",
+    "capital": "Дакар",
+    "flagPath": "Images/Flags/sn.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 19000000,
+    "area": 196722,
+    "region": 4,
+    "interestingFact": "Сенегал расположен на западной оконечности Африки и имеет выход к Атлантическому океану. В стране находится озеро Ретба, известное необычным розовым цветом воды из-за микроорганизмов.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Судан",
+    "capital": "Хартум",
+    "flagPath": "Images/Flags/sd.svg",
+    "currency": "Суданский фунт",
+    "population": 50000000,
+    "area": 1886068,
+    "region": 4,
+    "interestingFact": "Судан — одна из крупнейших стран Африки по площади. Через его территорию проходят Нил и его важнейшие притоки, а большая часть страны находится в зоне пустынь и саванн.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 2019,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 2019,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сомали",
+    "capital": "Могадишо",
+    "flagPath": "Images/Flags/so.svg",
+    "currency": "Сомалийский шиллинг",
+    "population": 19000000,
+    "area": 637657,
+    "region": 4,
+    "interestingFact": "Сомали расположена на Африканском Роге и имеет самое длинное побережье среди стран материковой Африки. Большая часть территории засушливая, с саваннами и пустынными районами.",
+    "languages": [
+      {
+        "name": "Сомалийский",
+        "sinceYear": 1972,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 1972,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Сьерра-Леоне",
+    "capital": "Фритаун",
+    "flagPath": "Images/Flags/sl.svg",
+    "currency": "Леоне",
+    "population": 9000000,
+    "area": 71740,
+    "region": 4,
+    "interestingFact": "Сьерра-Леоне находится на побережье Атлантического океана в Западной Африке. Страна известна тропическими лесами, горами и полуостровом Фритаун, где сохранились одни из последних участков прибрежных лесов региона.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1961,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Танзания",
+    "capital": "Додома",
+    "flagPath": "Images/Flags/tz.svg",
+    "currency": "Танзанийский шиллинг",
+    "population": 70000000,
+    "area": 945087,
+    "region": 4,
+    "interestingFact": "Танзания — страна с огромным природным разнообразием. Здесь находится гора Килиманджаро, высочайшая вершина Африки, а также национальный парк Серенгети и озеро Виктория.",
+    "languages": [
+      {
+        "name": "Суахили",
+        "sinceYear": 1961,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1961,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Того",
+    "capital": "Ломе",
+    "flagPath": "Images/Flags/tg.svg",
+    "currency": "Западноафриканский франк КФА",
+    "population": 9500000,
+    "area": 56785,
+    "region": 4,
+    "interestingFact": "Того — узкая страна на побережье Гвинейского залива. Её территория вытянута с юга на север: от тропического побережья до саванн на севере.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Тунис",
+    "capital": "Тунис",
+    "flagPath": "Images/Flags/tn.svg",
+    "currency": "Тунисский динар",
+    "population": 12000000,
+    "area": 163610,
+    "region": 4,
+    "interestingFact": "Тунис расположен на севере Африки между Средиземным морем и пустыней Сахара. На его территории находятся древние руины Карфагена, одного из важнейших городов античного мира.",
+    "languages": [
+      {
+        "name": "Арабский",
+        "sinceYear": 1959,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Уганда",
+    "capital": "Кампала",
+    "flagPath": "Images/Flags/ug.svg",
+    "currency": "Угандийский шиллинг",
+    "population": 52000000,
+    "area": 241550,
+    "region": 4,
+    "interestingFact": "Уганда расположена в районе Великих Африканских озёр. Через юг страны проходит экватор, а на её территории находится часть озера Виктория, крупнейшего озера Африки.",
+    "languages": [
+      {
+        "name": "Английский",
+        "sinceYear": 1962,
+        "isOfficial": true
+      },
+      {
+        "name": "Суахили",
+        "sinceYear": 2005,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Центральноафриканская Республика",
+    "capital": "Банги",
+    "flagPath": "Images/Flags/cf.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 5600000,
+    "area": 622984,
+    "region": 4,
+    "interestingFact": "Центральноафриканская Республика находится в самом центре Африки и не имеет выхода к морю. Большая часть территории покрыта саваннами, а на юге расположены влажные тропические леса бассейна Конго.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      },
+      {
+        "name": "Санго",
+        "sinceYear": 1960,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Чад",
+    "capital": "Нджамена",
+    "flagPath": "Images/Flags/td.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 21000000,
+    "area": 1284000,
+    "region": 4,
+    "interestingFact": "Чад расположен в центральной части Африки. На севере страны находится пустыня Сахара, а на юге саванны. Озеро Чад, давшее название стране, является одним из крупнейших озёр Африки и сильно изменило свои размеры за последние десятилетия.",
+    "languages": [
+      {
+        "name": "Французский",
+        "sinceYear": 1960,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 1978,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Экваториальная Гвинея",
+    "capital": "Малабо",
+    "flagPath": "Images/Flags/gq.svg",
+    "currency": "Центральноафриканский франк КФА",
+    "population": 1800000,
+    "area": 28051,
+    "region": 4,
+    "interestingFact": "Экваториальная Гвинея состоит из материковой части Рио-Муни и нескольких островов в Гвинейском заливе. Остров Биоко имеет вулканическое происхождение, а его столица Малабо находится на склонах вулкана.",
+    "languages": [
+      {
+        "name": "Испанский",
+        "sinceYear": 1968,
+        "isOfficial": true
+      },
+      {
+        "name": "Французский",
+        "sinceYear": 1998,
+        "isOfficial": true
+      },
+      {
+        "name": "Португальский",
+        "sinceYear": 2010,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Эритрея",
+    "capital": "Асмэра",
+    "flagPath": "Images/Flags/er.svg",
+    "currency": "Накфа",
+    "population": 3600000,
+    "area": 117600,
+    "region": 4,
+    "interestingFact": "Эритрея расположена на побережье Красного моря и включает часть Африканского Рога. В стране находятся горные районы, пустыни и длинная береговая линия с островами Дахлак.",
+    "languages": [
+      {
+        "name": "Тигринья",
+        "sinceYear": 1997,
+        "isOfficial": true
+      },
+      {
+        "name": "Арабский",
+        "sinceYear": 1997,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1997,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Эсватини",
+    "capital": "Мбабане",
+    "flagPath": "Images/Flags/sz.svg",
+    "currency": "Лилангени",
+    "population": 1200000,
+    "area": 17364,
+    "region": 4,
+    "interestingFact": "Эсватини — небольшое государство на юге Африки, полностью окружённое Южно-Африканской Республикой и Мозамбиком. Страна отличается горным рельефом и разнообразными природными зонами.",
+    "languages": [
+      {
+        "name": "Сисвати",
+        "sinceYear": 1968,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1968,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Эфиопия",
+    "capital": "Аддис-Абеба",
+    "flagPath": "Images/Flags/et.svg",
+    "currency": "Эфиопский быр",
+    "population": 135000000,
+    "area": 1104300,
+    "region": 4,
+    "interestingFact": "Эфиопия — одна из древнейших стран мира с уникальной историей. Здесь находятся Эфиопское нагорье, истоки Голубого Нила и древний город Лалибэла с высеченными в скале церквями.",
+    "languages": [
+      {
+        "name": "Амхарский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Афарский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Оромо",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Сомалийский",
+        "sinceYear": 1995,
+        "isOfficial": true
+      },
+      {
+        "name": "Тигринья",
+        "sinceYear": 1995,
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "name": "Южно-Африканская Республика",
+    "capital": "Претория",
+    "flagPath": "Images/Flags/za.svg",
+    "currency": "Южноафриканский ранд",
+    "population": 64000000,
+    "area": 1221037,
+    "region": 4,
+    "interestingFact": "ЮАР — самая южная страна Африки и одна из самых культурно разнообразных стран мира. Здесь находятся пустыня Калахари, горы Драконовы горы и два океанских побережья: Атлантический и Индийский.",
+    "languages": [
+      {
+        "name": "Африкаанс",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Английский",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Зулу",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Коса",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Сесото",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Сепеди",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Тсвана",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Свати",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Венда",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Ндебеле",
+        "sinceYear": 1994,
+        "isOfficial": true
+      },
+      {
+        "name": "Южноафриканский жестовый язык",
+        "sinceYear": 2023,
+        "isOfficial": true
+      }
+    ]
+  },
   
   
   
