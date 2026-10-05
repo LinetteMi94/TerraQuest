@@ -18,7 +18,7 @@ using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<TerraQuestContext>();
     context.Database.Migrate();
-    DbInitializer initializer = new DbInitializer();
+    var initializer = new DbInitializer();
     initializer.Initialize(context);
 }
 
