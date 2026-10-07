@@ -1,12 +1,14 @@
-﻿namespace TerraQuest.Models;
+﻿using System.ComponentModel;
+
+namespace TerraQuest.Models;
 
 public enum Region
 {
-    Europe,
-    NorthAmerica,
-    SouthAmerica,
-    AustraliaAndOceania,
-    Africa,
-    Asia,
-    Antarctica
+    [Description("Европа")] Europe,
+    [Description("Северная Америка")] NorthAmerica,
+    [Description("Южная Америка")] SouthAmerica,
+    [Description("Австралия и Океания")] AustraliaAndOceania,
+    [Description("Африка")] Africa,
+    [Description("Азия")] Asia,
+    [Description("Антарктида")] Antarctica
 }
