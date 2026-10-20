@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace TerraQuest.Data;
 
-public class JsonLoader
+public static class JsonLoader
 {
     
     public static List<CountryJson> LoadCountries()
@@ -12,8 +12,8 @@ public class JsonLoader
         {
             PropertyNameCaseInsensitive = true
         };
-        string json = File.ReadAllText("DataFiles/Countries.json");
-        List<CountryJson>? countries = JsonSerializer.Deserialize<List<CountryJson>>(json, options);
-        return countries ?? new List<CountryJson>();
+        var json = File.ReadAllText("DataFiles/Countries.json");
+        var countries = JsonSerializer.Deserialize<List<CountryJson>>(json, options);
+        return countries ?? [];
     }
 }

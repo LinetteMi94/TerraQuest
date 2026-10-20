@@ -8,8 +8,7 @@ public class Country(
     string currency,
     long population,
     double area,
-    Region region,
-    string interestingFact)
+    Region region)
 {
     public int Id { get; private set; } = id;
     public string Name { get; private set; } = name;
@@ -20,5 +19,6 @@ public class Country(
     public double Area { get; set; } = area; //площадь
     public string Currency { get; set; } = currency; //валюта
     public List<CountryLanguage> CountryLanguages { get; private set; } = [];
-    public string InterestingFact { get; set; } = interestingFact;
+    public string InterestingFact { get; set; } = "dfg";
+    public List<CountryFact> InterestingFacts { get; set; } = [];
 }

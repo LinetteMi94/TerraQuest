@@ -21,12 +21,18 @@ public class DbInitializer
 
     private void SeedData(TerraQuestContext context, List<CountryJson> countriesJson)
     {
+        var counter = 1;
         foreach (var countryJson in countriesJson)
         {
-            var country = new Country(++_lastCountryId, countryJson.Name,  countryJson.Capital, 
+            var country = new Country(++_lastCountryId, countryJson.Name, countryJson.Capital,
                 countryJson.FlagPath, countryJson.Currency, countryJson.Population, countryJson.Area,
-                countryJson.Region,countryJson.InterestingFact);
+                countryJson.Region);
             context.Countries.Add(country);
+            foreach (var factJson in countryJson.InterestingFacts)
+            {
+                var countryFact = new CountryFact {Id = counter++, Text = factJson, Country = country};
+                context.CountryFacts.Add(countryFact);
+            }
             foreach (var languageJson in countryJson.Languages)
             {
                 var language = GetOrCreateLanguage(context, languageJson.Name);

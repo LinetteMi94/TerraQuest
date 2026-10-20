@@ -39,6 +39,17 @@ public class CountriesController(TerraQuestContext context) : ControllerBase
         return Ok(countries);
     }
     
+    [HttpGet("capital")]
+    public IActionResult SearchCountriesByCapital(string name)
+    {
+        var countries = context.Countries.AsEnumerable().Where(x => x.Capital.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+        if (!countries.Any())
+        {
+            return NotFound();
+        }
+        return Ok(countries);
+    }
+    
     [HttpGet("search")]
     public IActionResult SearchCountries(string name)
     {
