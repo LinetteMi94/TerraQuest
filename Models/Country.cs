@@ -19,6 +19,5 @@ public class Country(
     public double Area { get; set; } = area; //площадь
     public string Currency { get; set; } = currency; //валюта
     public List<CountryLanguage> CountryLanguages { get; private set; } = [];
-    public string InterestingFact { get; set; } = "dfg";
     public List<CountryFact> InterestingFacts { get; set; } = [];
 }

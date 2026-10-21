@@ -12,11 +12,9 @@ public class DbInitializer
     
     public void Initialize(TerraQuestContext context)
     {
-        if (!context.Countries.Any())
-        {
-            SeedData(context, JsonLoader.LoadCountries());
-            context.SaveChanges();
-        }
+         if (context.Countries.Any()) return;
+        SeedData(context, JsonLoader.LoadCountries());
+        context.SaveChanges();
     }
 
     private void SeedData(TerraQuestContext context, List<CountryJson> countriesJson)

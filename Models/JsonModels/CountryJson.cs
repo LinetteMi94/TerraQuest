@@ -10,6 +10,5 @@ public class CountryJson
     public double Area { get; set; }
     public string Currency { get; set; }
     public List<LanguageJson> Languages { get; set; } = [];
-    public string InterestingFact { get; set; }
     public List<string> InterestingFacts { get; set; } = [];
 }
