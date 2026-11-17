@@ -1,10 +1,14 @@
-﻿namespace TerraQuest.Models;
+﻿using System.Text.Json.Serialization;
+
+namespace TerraQuest.Models;
 
 public class CountryLanguage
 {
     public int Id { get; internal set; }
     
     public int CountryId { get; internal set; }
+    
+    [JsonIgnore]
     public Country Country { get; internal set; }
     
     public int LanguageId { get; internal set; }

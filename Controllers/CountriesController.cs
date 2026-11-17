@@ -3,6 +3,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Reflection;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TerraQuest.Data;
 using TerraQuest.Models;
 
@@ -15,14 +16,20 @@ public class CountriesController(TerraQuestContext context) : ControllerBase
     [HttpGet]
     public IActionResult GetCountries()
     {
-        var countries = context.Countries.ToList();
+        var countries = context.Countries
+            .Include(x => x.InterestingFacts)
+            .Include(x => x.CountryLanguages)
+            .ThenInclude(x => x.Language).ToList();
         return Ok(countries);
     }
     
     [HttpGet("{id}")]
     public IActionResult GetCountry(int id)
     {
-        var country = context.Countries.FirstOrDefault(x => x.Id == id);
+        var country = context.Countries.Include(x => x.InterestingFacts)
+            .Include(x => x.CountryLanguages)
+            .ThenInclude(x => x.Language)
+            .FirstOrDefault(x => x.Id == id);
         if (country == null)
         {
             return NotFound();
@@ -34,7 +41,10 @@ public class CountriesController(TerraQuestContext context) : ControllerBase
     public IActionResult GetCountryByRegion(string region)
     {
         if (!TryParseRegion(region, out Region userRegion)) return NotFound();
-        var countries = context.Countries.Where(x => x.Region == userRegion).ToList();
+        var countries = context.Countries.Where(x => x.Region == userRegion)
+            .Include(x => x.InterestingFacts)
+            .Include(x => x.CountryLanguages)
+            .ThenInclude(x => x.Language).ToList();
         if (!countries.Any()) return NotFound();
         return Ok(countries);
     }
@@ -53,7 +63,11 @@ public class CountriesController(TerraQuestContext context) : ControllerBase
     [HttpGet("search")]
     public IActionResult SearchCountries(string name)
     {
-        var countries = context.Countries.AsEnumerable().Where(x => x.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+        var countries = context.Countries
+            .Include(x => x.InterestingFacts)
+            .Include(x => x.CountryLanguages)
+            .ThenInclude(x => x.Language).AsEnumerable()
+            .Where(x => x.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
         if (!countries.Any())
         {
             return NotFound();
